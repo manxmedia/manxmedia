@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /private/
+Allow: /public/
+Allow: /manxmedia-app/
+Sitemap: https://www.manxmedia.co.za/sitemap.xml
