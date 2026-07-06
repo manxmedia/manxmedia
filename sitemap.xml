@@ -1,23 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://www.manxmedia.co.za/</loc>
-<lastmod>2024-02-21T10:55:33+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://www.manxmedia.co.za/about.html</loc>
-<lastmod>2024-02-21T10:55:32+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.manxmedia.co.za/gallery.html</loc>
-<lastmod>2024-02-21T10:55:33+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.manxmedia.co.za/contact.html</loc>
-<lastmod>2024-02-21T10:55:32+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Home -->
+    <url>
+        <loc>https://www.manxmedia.co.za/</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.00</priority>
+    </url>
+
+    <!-- Main Pages -->
+    <url>
+        <loc>https://www.manxmedia.co.za/about.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/contact.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/gallery.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/bookings.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/quote.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/blog.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/blog-details.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/testimonials.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/faq.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/terms-conditions.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.40</priority>
+    </url>
+
+    <!-- Services -->
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/businessmaterials.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/canvas.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/embroidery.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/eventsmaterials.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/eventsphotography.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/gifts.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/graphicsdesign.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/outdoorphotography.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/photoprinting.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/signage.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/studiophotography.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/tshirt.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/webdesign.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/webhosting.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://www.manxmedia.co.za/services/weddingphotography.html</loc>
+        <lastmod>2026-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+
 </urlset>
